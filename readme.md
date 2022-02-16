@@ -7,7 +7,7 @@ if you outsource this code to a function, behaviour changes, the rendering conti
 this test provides two versions.
 version 1 is the one that blocks everything. version 2 is the one, that uses the function to update. have a look in `comp.svelte` and have a look at the comments in the computed property.
 
-This behavior has started in svelte `v3.0.1`. If you downgrade the the svelte versions in the `package.json` to e.g. `v3.0.0`, it works fine.
+This behavior has started in svelte `v3.2.1`. If you downgrade the the svelte versions in the `package.json` to e.g. `v3.0.0`, it works fine.
 
 # how to start
 
