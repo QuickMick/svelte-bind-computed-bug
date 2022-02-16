@@ -9,6 +9,8 @@ version 1 is the one that blocks everything. version 2 is the one, that uses the
 
 This behavior has started in svelte `v3.2.1`. If you downgrade the the svelte versions in the `package.json` to e.g. `v3.0.0`, it works fine.
 
+![what i think happens](https://raw.githubusercontent.com/QuickMick/svelte-bind-computed-bug/main/svelte_bug_example.png?raw=true)
+
 # how to start
 
 do following in the root
